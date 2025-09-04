@@ -1,0 +1,16 @@
+{
+    "name": "Antoine.DependencyBindings",
+    "rootNamespace": "Antoine.Systems",
+    "references": [
+        "GUID:bef1c4162897e7141bc9001a91fa25f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
