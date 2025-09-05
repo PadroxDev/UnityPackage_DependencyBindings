@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 
 namespace Antoine.Systems {
-    [CreateAssetMenu(menuName = "Dependency Binding")]
+    [CreateAssetMenu(menuName = "Antoine/Dependency Binding")]
     public class DependencyBinding : ScriptableObject {
         [TypeFilter(typeof(IBindable))]
         [SerializeField] SerializableType type;
@@ -71,3 +71,4 @@ namespace Antoine.Systems {
 #endif
     }
 }
+
